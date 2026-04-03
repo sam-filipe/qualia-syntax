@@ -127,7 +127,7 @@ Source code is released under the [MIT Licence](LICENCE). Data files are release
 If you use this code or data in your research, please cite:
 
 ```
-Pereira, S., Bernardes, G., & Oliveira Martins, J. (2025). Statistically Modelling Qualia Syntax
+Pereira, S., Bernardes, G., & Oliveira Martins, J. (2026). Statistically Modelling Qualia Syntax
 Through Fourier Space: A Three-role Probabilistic Framework Where Ambiguity Becomes Structure.
 ```
 
