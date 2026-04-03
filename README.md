@@ -10,7 +10,7 @@ Supplementary material for:
 >
 > Samuel Pereira, Gilberto Bernardes, and José Oliveira Martins
 
-This repository contains the source code, data, and analytical outputs accompanying the article. The study investigates whether composers' deployment of harmonic qualities---including diatonicity, octatonicity, and whole-tone quality---exhibits systematic patterns that could constitute a *qualia syntax*. Building upon the discrete Fourier transform (DFT) of pitch-class sets and its geometric interpretation through the Fourier Qualia Space (FQS), it advances three key contributions: the definition of an ambiguity region in the FQS, a computational methodology for extracting qualia progressions from musical works, and a four-tiered nested analysis examining these progressions across multiple analytical scales.
+This repository contains the source code, data, and analytical outputs accompanying the article. The study investigates whether composers' deployment of harmonic qualities&mdashincluding diatonicity, octatonicity, and whole-tone quality---exhibits systematic patterns that could constitute a *qualia syntax*. Building upon the discrete Fourier transform (DFT) of pitch-class sets and its geometric interpretation through the Fourier Qualia Space (FQS), it advances three key contributions: the definition of an ambiguity region in the FQS, a computational methodology for extracting qualia progressions from musical works, and a four-tiered nested analysis examining these progressions across multiple analytical scales.
 
 ## Repository structure
 
