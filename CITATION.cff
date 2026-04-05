@@ -4,7 +4,7 @@ title: "Supplementary material for Statistically Modelling Qualia Syntax Through
 version: 1.0.0
 date-released: 2026-04-04
 license: MIT
-repository-code: "https://github.com/sam-filipe/qualia-syntax"
+repository-code: "https://github.com/sml-pereira/qualia-syntax"
 url: "https://github.com/sml-pereira/qualia-syntax"
 doi: 10.5281/zenodo.19429590
 type: software
@@ -22,10 +22,10 @@ authors:
 keywords:
   - music information retrieval
   - computational musicology
+  - music theory
   - Fourier transform
   - pitch-class sets
-  - qualia
-  - tonality
+  - harmonic qualia
   - Debussy
   - Markov models
 preferred-citation:
